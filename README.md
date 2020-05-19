@@ -19,5 +19,14 @@ Käytettävä tietokonta on sqlite. Se täytyy olla asennettuna tietokoneellesi,
 
 Lisään tarkemman ohjeen ja Windows-asennuspaketin, kun ehdin. Tällä hetkellä näin:
 1. Asenna sqlite
+2. Asenna python 3.7 tai uudempi
 2. Asenna vaaditut pip-modulit requirements-txt -tiedoston mukaan.
 3. Käynnistä therapy.py
+
+## En osaa! Ei toimi!
+
+Pistä mailia: rami.rahikkala@gmail.com, niin yritän auttaa.
+
+## Onko potilastietoni varmasti turvassa?
+
+Ohjelma tallentaa kaiken tiedon terapialaskut.db-tiedostoon kotihakemistoosi. Tiedosto ei ole salasanasuojattu, joten varmista, että tietokoneellesi ei pääse asiattomat.
