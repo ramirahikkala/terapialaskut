@@ -5,7 +5,7 @@ import pathlib
 
 db_path = (
         pathlib.Path.home()
-        / 'terapia_laskut.db'
+        / 'terapialaskut.db'
     )
 engine = create_engine('sqlite:///' + str(db_path))
 Base = declarative_base(bind=engine)
